@@ -1,0 +1,15 @@
+{
+    "name": "tbvt/tbvt",
+    "description": "tbvt",
+    "authors": [
+        {
+            "name": "tabuna",
+            "email": "bliz48rus@gmail.com"
+        }
+    ],
+    "require": {
+        "tabuna/vesta-api": "^1.0",
+        "orchid/socket": "^1.5",
+        "orchid/cms": "^1.0"
+    }
+}
