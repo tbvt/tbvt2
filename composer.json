@@ -10,6 +10,6 @@
     "require": {
         "tabuna/vesta-api": "^1.0",
         "orchid/socket": "^1.5",
-        "orchid/cms": "^1.0"
+        "orchid/platform": "^2.0"
     }
 }
